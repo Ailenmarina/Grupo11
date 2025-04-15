@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.10" pages="3">
   <diagram id="TdSIpB8HYpXzfGuZyR8B" name="FN-1">
-    <mxGraphModel dx="1113" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="FN-2" id="59wlZubd9Av4vrIv4Q9x">
-    <mxGraphModel dx="1113" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,9 +139,27 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3KJ8Lg3O0DvgtKXpUC2G-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QepD_KORAVAIFlQMv_K1-3" target="QepD_KORAVAIFlQMv_K1-15">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="450" y="-250" as="sourcePoint" />
+            <mxPoint x="470" y="-370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="-310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0LxElzAPMW1mKROL0oik-27" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="950" y="-230" width="60" height="30" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KJ8Lg3O0DvgtKXpUC2G-3" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QepD_KORAVAIFlQMv_K1-5" target="QepD_KORAVAIFlQMv_K1-10">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="460" y="-260" as="sourcePoint" />
+            <mxPoint x="480" y="-320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="-280" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0LxElzAPMW1mKROL0oik-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="1">
@@ -152,12 +170,28 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3KJ8Lg3O0DvgtKXpUC2G-4" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="QepD_KORAVAIFlQMv_K1-4" target="3KJ8Lg3O0DvgtKXpUC2G-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="460" y="-350" as="sourcePoint" />
+            <mxPoint x="780" y="-330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="-355" />
+              <mxPoint x="424" y="-361" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0LxElzAPMW1mKROL0oik-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="-250" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0LxElzAPMW1mKROL0oik-49" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="0LxElzAPMW1mKROL0oik-48">
           <mxGeometry width="60" height="30" as="geometry">
             <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KJ8Lg3O0DvgtKXpUC2G-5" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ToHos4RHVqrynaiM-hbf-3" target="QepD_KORAVAIFlQMv_K1-19">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="810" y="-210" as="sourcePoint" />
+            <mxPoint x="910" y="-310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IVtnyPcK8RTSlQ2BEkSA-14" value="VENTAS_DEL_VENDEDOR" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -226,6 +260,12 @@
         <mxCell id="0LxElzAPMW1mKROL0oik-54" value="Importe total" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="0LxElzAPMW1mKROL0oik-52">
           <mxGeometry x="60" width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KJ8Lg3O0DvgtKXpUC2G-6" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;" edge="1" parent="1" source="QepD_KORAVAIFlQMv_K1-14" target="QepD_KORAVAIFlQMv_K1-20">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="720" y="-550" as="sourcePoint" />
+            <mxPoint x="820" y="-650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0LxElzAPMW1mKROL0oik-55" value="DETALLE" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -371,7 +411,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Hymxhw4SET6mVQpiRoUq" name="DER">
-    <mxGraphModel dx="1113" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
