@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14" pages="3">
   <diagram name="1FN" id="z9fTfVGa4Pt2BPWPr-XJ">
-    <mxGraphModel dx="1039" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="10" width="358.81" height="310" as="geometry" />
         </mxCell>
         <mxCell id="G1OpWXcfVLErffvaF0m5-2" value="FACTURA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="10" width="160" height="450" as="geometry" />
+          <mxGeometry x="80" y="350" width="160" height="450" as="geometry" />
         </mxCell>
         <mxCell id="G1OpWXcfVLErffvaF0m5-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;u&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;Letra&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="G1OpWXcfVLErffvaF0m5-2" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry y="420" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BjyCsOd-qnOEdWJiyNFp-1" value="Detalles de Articulos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="10" width="160" height="240" as="geometry" />
+          <mxGeometry x="520" y="360" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="BjyCsOd-qnOEdWJiyNFp-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;u&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;Letra&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="BjyCsOd-qnOEdWJiyNFp-1" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
