@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.2" pages="3">
   <diagram name="1FN" id="z9fTfVGa4Pt2BPWPr-XJ">
     <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2FN" id="aGqdZFQHWsYwBY4nkMf4">
-    <mxGraphModel dx="1008" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="iSV8Gz6BKkgyy2OxKGbi-0" />
         <mxCell id="iSV8Gz6BKkgyy2OxKGbi-1" parent="iSV8Gz6BKkgyy2OxKGbi-0" />
@@ -124,7 +124,7 @@
           <mxGeometry x="10" y="10" width="358.81" height="310" as="geometry" />
         </mxCell>
         <mxCell id="iSV8Gz6BKkgyy2OxKGbi-3" value="FACTURA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-1" vertex="1">
-          <mxGeometry x="380" y="10" width="160" height="420" as="geometry" />
+          <mxGeometry x="380" y="10" width="160" height="390" as="geometry" />
         </mxCell>
         <mxCell id="iSV8Gz6BKkgyy2OxKGbi-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;u&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;Letra&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -144,26 +144,23 @@
         <mxCell id="iSV8Gz6BKkgyy2OxKGbi-9" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Nombre Cliente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
           <mxGeometry y="180" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-10" value="Direccion" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
+        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-11" value="N° IVA cliente" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
           <mxGeometry y="210" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-11" value="N° IVA cliente" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
+        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-12" value="Cod Vendedor" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
           <mxGeometry y="240" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-12" value="Cod Vendedor" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
+        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-13" value="&amp;nbsp;Importe Bruto" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
           <mxGeometry y="270" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-13" value="&amp;nbsp;Importe Bruto" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
+        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-14" value="&amp;nbsp;Descuentos" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
           <mxGeometry y="300" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-14" value="&amp;nbsp;Descuentos" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
+        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-15" value="Importe IVA" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
           <mxGeometry y="330" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iSV8Gz6BKkgyy2OxKGbi-15" value="Importe IVA" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
-          <mxGeometry y="360" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="iSV8Gz6BKkgyy2OxKGbi-16" value="Total neto" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-3" vertex="1">
-          <mxGeometry y="390" width="160" height="30" as="geometry" />
+          <mxGeometry y="360" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iSV8Gz6BKkgyy2OxKGbi-17" value="Detalles de Articulos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;labelBackgroundColor=none;" parent="iSV8Gz6BKkgyy2OxKGbi-1" vertex="1">
           <mxGeometry x="550" y="10" width="160" height="240" as="geometry" />
