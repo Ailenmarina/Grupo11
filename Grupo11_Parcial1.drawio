@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0" version="27.0.5" pages="3">
   <diagram name="1FN" id="shJKuEhzPZwhmENB7HQf">
-    <mxGraphModel dx="1938" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2014" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="-160" y="442.14" width="360" height="393.86" as="geometry" />
         </mxCell>
         <mxCell id="ii64ioSCxlhwOsu3Ig7z-1" value="MATERIAS REGULARIZADAS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="435" y="640" width="210" height="236" as="geometry" />
+          <mxGeometry x="440" y="442.14" width="210" height="236" as="geometry" />
         </mxCell>
         <mxCell id="ii64ioSCxlhwOsu3Ig7z-3" value="&lt;div&gt;&lt;u&gt;Cod.Carrera&lt;/u&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="ii64ioSCxlhwOsu3Ig7z-1" vertex="1">
           <mxGeometry y="26" width="210" height="30" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry y="236" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WIE53IBm_vB1H2y22Zv_-1" value="CALIFICACIONES" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="460" y="442.14" width="160" height="146" as="geometry" />
+          <mxGeometry x="450" y="700" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="WIE53IBm_vB1H2y22Zv_-2" value="&lt;u&gt;Cod. Carrera&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="WIE53IBm_vB1H2y22Zv_-1" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -96,6 +96,27 @@
         </mxCell>
         <mxCell id="WIE53IBm_vB1H2y22Zv_-4" value="Nota" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="WIE53IBm_vB1H2y22Zv_-1" vertex="1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJE5lPdTJWPGZueBilI9-5" value="CALIFICACIONES" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="730" width="150" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GJE5lPdTJWPGZueBilI9-6" value="Cod. Carrera" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=4" vertex="1" parent="GJE5lPdTJWPGZueBilI9-5">
+          <mxGeometry x="30" y="26" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJE5lPdTJWPGZueBilI9-7" value="N° de Legajo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=4" vertex="1" parent="GJE5lPdTJWPGZueBilI9-5">
+          <mxGeometry x="30" y="56" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJE5lPdTJWPGZueBilI9-8" value="Cod. Materia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=4" vertex="1" parent="GJE5lPdTJWPGZueBilI9-5">
+          <mxGeometry x="30" y="86" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJE5lPdTJWPGZueBilI9-9" value="Fecha" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GJE5lPdTJWPGZueBilI9-5">
+          <mxGeometry x="45" y="146" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJE5lPdTJWPGZueBilI9-10" value="N° Acta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GJE5lPdTJWPGZueBilI9-5">
+          <mxGeometry x="45" y="116" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJE5lPdTJWPGZueBilI9-12" value="Nota" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GJE5lPdTJWPGZueBilI9-5">
+          <mxGeometry x="50" y="176" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
