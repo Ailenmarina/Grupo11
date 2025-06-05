@@ -119,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MG7KonN-Vc2_WfVzUHsf" name="2FN">
-    <mxGraphModel dx="1291" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,7 +199,7 @@
           <mxGeometry y="190" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="frsqSEv2yZ5fRL96W2BS-1" value="DOCENTE_MATERIAS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="560" width="140" height="150" as="geometry" />
+          <mxGeometry x="180" y="500" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="LkEjOjtdr_zrzG5ijQLm-8" value="&lt;u&gt;Año de Cursada&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="frsqSEv2yZ5fRL96W2BS-1" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
